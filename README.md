@@ -1,3 +1,5 @@
+![Netflix Movie Data Analysis, presented by Katlyn Goeujon-Mackness](Netflix-Movie-Analysis.png)
+
 # Investigating Historical Movie Data
 
 This project explores and analyzes Netflix’s extensive catalog of movies and series over the past 80 years to uncover valuable insights into the evolution of the entertainment industry.
